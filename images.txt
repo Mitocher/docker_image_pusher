@@ -13,3 +13,4 @@ jlesage/handbrake:latest
 herberthe0229/iptv-sources:latest
 xhofe/alist:latest 
 jrohy/webssh
+rustdesk/rustdesk-server-s6
